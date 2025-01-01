@@ -7,8 +7,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-@anoopkarnik-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/anoopkarnik/)](https://instagram.com/anoopkarnik)
 [![Gmail Badge](https://img.shields.io/badge/-anoopkarnikofficial-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:anoopkarnikofficial@gmail.com)](mailto:anoopkarnikofficial@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-facebook-blue?style=flat&logo=Facebook&logoColor=white&link=https://facebook.com/anoop.karnik1)](https://facebook.com/anoop.karnik1)
-[![Notion Badge](https://img.shields.io/badge/-anoopkarnikofficial-white?style=flat&logo=Notion&logoColor=black&link=https://notion.com/@anoopkarnik)](https://notion.com/@anoopkarnik)
-[![Youtube Badge](https://img.shields.io/badge/-anoopkarnikofficial-red?style=flat&logo=Youtube&logoColor=white&link=https://youtube.com/bayesianlabs)](https://youtube.com/bayesianlabs)
+[![Notion Badge](https://img.shields.io/badge/-@anoopkarnikofficial-white?style=flat&logo=Notion&logoColor=black&link=https://notion.com/@anoopkarnik)](https://notion.com/@anoopkarnik)
+[![Youtube Badge](https://img.shields.io/badge/-@bayesianlabs-red?style=flat&logo=Youtube&logoColor=white&link=https://youtube.com/@bayesianlabs)](https://youtube.com/@bayesianlabs)
 
 MicroSaas Products Builder, Notion Template Builder, Fullstack Engineer, Devops Engineer, Data Engineer, Machine Learning Engineer, Applied AI Engineer
 
