@@ -73,4 +73,75 @@
 [![Anoop Karnik's WakaTime stats](https://github-readme-stats-tau-eight-19.vercel.app/api/wakatime?username=anoopkarnik)](https://github.com/anoopkarnik/github-readme-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-109-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 849.8 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 64 Public Repositories 
+ > 
+> 🔑 7 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                256 commits         ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+🌆 Daytime                226 commits         █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
+🌃 Evening                296 commits         ███████░░░░░░░░░░░░░░░░░░   26.69 % 
+🌙 Night                  331 commits         ███████░░░░░░░░░░░░░░░░░░   29.85 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+Tuesday                  153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Wednesday                216 commits         █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+Thursday                 151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+Friday                   158 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+Saturday                 176 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+Sunday                   154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   21 repos            █████████░░░░░░░░░░░░░░░░   35.59 % 
+JavaScript               15 repos            ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
+TypeScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+HTML                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/anoopkarnik/anoopkarnik/main/assets/bar_graph.png)
+
+
+ Last Updated on 01/01/2025 06:43:18 UTC
 <!--END_SECTION:waka-->
