@@ -1,3 +1,4 @@
+[![Actions Status](https://github.com/anoopkarnik/anoopkarnik/workflows/update-gh-activity/badge.svg)](https://github.com/anoopkarnik/anoopkarnik/actions)
 <h1>
 	<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
 </h1>
