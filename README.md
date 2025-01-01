@@ -1,6 +1,7 @@
 # Hi I'm Anoop 👋
 
-
+<div align='left'>
+	
 [![Linkedin Badge](https://img.shields.io/badge/-anoopkarnik-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anoopkarnik/)](https://www.linkedin.com/in/anoopkarnik/)
 [![Medium Badge](https://img.shields.io/badge/-@danoopkarnik-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@danoopkarnik)](https://medium.com/@danoopkarnik)
 [![Twitter Badge](https://img.shields.io/badge/-@anooplegend1992-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/anooplegend1992)](https://twitter.com/anooplegend1992)
@@ -8,33 +9,53 @@
 [![Gmail Badge](https://img.shields.io/badge/-anoopkarnikofficial-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:anoopkarnikofficial@gmail.com)](mailto:anoopkarnikofficial@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-facebook-blue?style=flat&logo=Facebook&logoColor=white&link=https://facebook.com/anoop.karnik1)](https://facebook.com/anoop.karnik1)
 [![Notion Badge](https://img.shields.io/badge/-@anoopkarnikofficial-white?style=flat&logo=Notion&logoColor=black&link=https://notion.com/@anoopkarnik)](https://notion.com/@anoopkarnik)
+[![Topmate Badge](https://img.shields.io/badge/-anoop_karnik-red?style=flat&logo=Topmate&logoColor=black&link=https://topmate.io/anoop_karnik)](https://topmate.io/anoop_karnik)
+</div>
 
+<div align='left'>
+	
 [![Youtube Badge](https://img.shields.io/youtube/channel/subscribers/UC7DOi16CtrSKeYa9fuJhMZQ)](https://youtube.com/@bayesianlabs)
 [![Youtube Badge](https://img.shields.io/youtube/channel/views/UC7DOi16CtrSKeYa9fuJhMZQ)](https://youtube.com/@bayesianlabs)
 ![Github Badge](https://img.shields.io/github/followers/anoopkarnik)
 ![Github Badge](https://img.shields.io/github/stars/anoopkarnik)
+</div>
 
 MicroSaas Products Builder, Notion Template Builder, Fullstack Engineer, Devops Engineer, Data Engineer, Machine Learning Engineer, Applied AI Engineer
 
-<h2>Open source projects</h2>
-<table>
+<h3 >Open source projects</h3>
+
+<table >
   <thead align="center">
     <tr border: none;>
-      <td><b>🔗 Repos</b></td>
+      <td><b>🔗 Projects</b></td>
       <td><b>🌐 Live Demo</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/anoopkarnik/turborepo-saas-boilerplate-code"><b>Turborepo SaaS Boilerplate Code</b></a></td>
       <td><a href="https://dev.boilerplate.bsamaritan.com"><b>Site</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/anoopkarnik/turborepo-saas-boilerplate-code?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/anoopkarnik/turborepo-saas-boilerplate-code?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/anoopkarnik/turborepo-saas-boilerplate-code?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/anoopkarnik/turborepo-saas-boilerplate-code?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/anoopkarnik/code-automations-notion-systems"><b>Code Automations System</b></a></td>
       <td><a href="https://dev.bsamaritan.com"><b>Site</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/anoopkarnik/code-automations-notion-systems?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/anoopkarnik/code-automations-notion-systems?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/anoopkarnik/code-automations-notion-systems?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/anoopkarnik/code-automations-notion-systems?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
+
+<h3 align='left'>My Skills</h3>
 
 ```javascript
 const anoop = {
