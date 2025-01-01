@@ -60,3 +60,6 @@
 	  <img alt="Linkedin" width="40" height="40" src="https://raw.githubusercontent.com/anoopkarnik/turborepo-saas-boilerplate-code/main/apps/nextjs-app/public/connections/linkedin.png"/>
   </a> 
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
