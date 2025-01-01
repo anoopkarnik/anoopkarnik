@@ -109,61 +109,22 @@ const anoop = {
 [![Anoop Karnik's WakaTime stats](https://github-readme-stats-tau-eight-19.vercel.app/api/wakatime?username=anoopkarnik)](https://github.com/anoopkarnik/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-109-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-229-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 849.8 kB Used in GitHub's Storage 
+> 📦 850.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 62 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 64 Public Repositories 
+> 📜 65 Public Repositories 
  > 
 > 🔑 7 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                256 commits         ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
-🌆 Daytime                227 commits         █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
-🌃 Evening                296 commits         ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-🌙 Night                  331 commits         ███████░░░░░░░░░░░░░░░░░░   29.82 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-Tuesday                  153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-Wednesday                217 commits         █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
-Thursday                 151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-Friday                   158 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-Saturday                 176 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-Sunday                   154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -177,5 +138,5 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/01/2025 06:55:05 UTC
+ Last Updated on 01/01/2025 18:40:05 UTC
 <!--END_SECTION:waka-->
