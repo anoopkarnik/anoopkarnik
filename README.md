@@ -40,10 +40,11 @@
 	  <img alt="Github" width="40" height="40" src="https://raw.githubusercontent.com/anoopkarnik/turborepo-saas-boilerplate-code/main/apps/nextjs-app/public/connections/github.png"/>
   </a> 
   <a href="https://twitter.com/anooplegend1992" target="_blank">
-	  <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+	  <img alt="Github" width="40" height="40" src="https://raw.githubusercontent.com/anoopkarnik/turborepo-saas-boilerplate-code/main/apps/nextjs-app/public/connections/twiiter.png"/>
   </a> 
   <a href="https://www.linkedin.com/in/anoopkarnik" target="_blank">
-	  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+	  	  <img alt="Github" width="40" height="40" src="https://raw.githubusercontent.com/anoopkarnik/turborepo-saas-boilerplate-code/main/apps/nextjs-app/public/connections/linkedin.png"/>
+
   </a> 
 </p>
 
