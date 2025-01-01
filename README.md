@@ -2,8 +2,6 @@
 	<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
 </h1>
 <p>Welcome to my page! </br> I'm Anoop, Open Source and Micro SaaS Products Builder from India. </p>
-
-<h2>Where to find me</h2>
 <p>
   <a href="https://github.com/anoopkarnik" target="_blank"> 
 	  <img alt="Github" width="40" height="40" src="https://raw.githubusercontent.com/anoopkarnik/turborepo-saas-boilerplate-code/main/apps/nextjs-app/public/connections/github-dark.png"/>
