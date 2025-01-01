@@ -9,6 +9,9 @@
 [![Facebook Badge](https://img.shields.io/badge/-facebook-blue?style=flat&logo=Facebook&logoColor=white&link=https://facebook.com/anoop.karnik1)](https://facebook.com/anoop.karnik1)
 [![Notion Badge](https://img.shields.io/badge/-@anoopkarnikofficial-white?style=flat&logo=Notion&logoColor=black&link=https://notion.com/@anoopkarnik)](https://notion.com/@anoopkarnik)
 [![Youtube Badge](https://img.shields.io/youtube/channel/subscribers/UC7DOi16CtrSKeYa9fuJhMZQ)](https://youtube.com/@bayesianlabs)
+[![Youtube Badge](https://img.shields.io/youtube/channel/views/UC7DOi16CtrSKeYa9fuJhMZQ)](https://youtube.com/@bayesianlabs)
+![Github Badge](https://img.shields.io/github/followers/anoopkarnik)
+![Github Badge](https://img.shields.io/github/stars/anoopkarnik)
 
 MicroSaas Products Builder, Notion Template Builder, Fullstack Engineer, Devops Engineer, Data Engineer, Machine Learning Engineer, Applied AI Engineer
 
