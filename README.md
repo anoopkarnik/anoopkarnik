@@ -7,6 +7,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-@anoopkarnik-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/anoopkarnik/)](https://instagram.com/anoopkarnik)
 [![Gmail Badge](https://img.shields.io/badge/-anoopkarnikofficial-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:anoopkarnikofficial@gmail.com)](mailto:anoopkarnikofficial@gmail.com)
 
+MicroSaas Products Builder, Notion Template Builder, Fullstack Engineer, Devops Engineer, Data Engineer, Machine Learning Engineer, Applied AI Engineer
+
 <h2>Open source projects</h2>
 <table>
   <thead align="center">
@@ -29,7 +31,7 @@
 
 ```javascript
 const anoop = {
-    code: ["Python", "Javascript", "TypeScript", "Java"],
+    code: ["Python", "Javascript", "TypeScript", "Java", "VBA", "CSS", "HTML"],
     technologies: {
         frontEnd: {
             js: ["React", "Next.js"],
@@ -51,13 +53,14 @@ const anoop = {
                   "Amazon SES", "Lightsail", "Lambda", "ECS", "ECR", "S3 Glacier", "Sagemaker", "Glue"],
             gcp: ["APIs & Services", "IAM"],
         },
-        databases: ["PostgreSQL", "Elasticsearch", "MongoDB", "redis", "Kafka", "Neo4j"],
-        misc: ["Socket.IO", "REST APIs", "WebSockets"],
+        databases: ["PostgreSQL", "Elasticsearch", "MongoDB", "redis", "Kafka", "Neo4j", "Fhir"],
         AI: {
            concepts: ["Advanced Prompting", "Vectorization", "LangChain", "Finetuning", "Stable Diffusion", "Transformers",
                       "Reinforcement Learning],
-           tools: ["OpenAI APIs", "Midjourney", "Rasa", "KohyaSS", "ComfyUI", "Whisper", "DALL-E"]
-	}
+           tools: ["OpenAI APIs", "Midjourney", "Rasa", "KohyaSS", "ComfyUI", "Whisper", "DALL-E", "Claude", "Canvas"]
+	},
+        misc: ["Socket.IO", "REST APIs", "WebSockets", "Notion", "DaVinci Resolve", "Adobe Premier Pro", "Adobe Photoshop", "Pipedream", 
+                "Zapier", "Camunda Workflow Engine"],
     },
     currentFocus: "Creating Micro SaaS & Open Source Projects related to automation and gamification using generative AI in the the fields of 
                    coding, content creation, personal finance, health, etc ",
