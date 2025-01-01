@@ -61,6 +61,6 @@
 	  <img alt="Linkedin" width="40" height="40" src="https://raw.githubusercontent.com/anoopkarnik/turborepo-saas-boilerplate-code/main/apps/nextjs-app/public/connections/linkedin.png"/>
   </a> 
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anoopkarnik)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
