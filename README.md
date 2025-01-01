@@ -81,5 +81,7 @@
 	</a>
 </div>
 
+[![Anoop Karnik's WakaTime stats](https://github-readme-stats-tau-eight-19.vercel.app/api/wakatime?username=anoopkarnik)](https://github.com/anoopkarnik/github-readme-stats)
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
