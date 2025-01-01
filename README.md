@@ -1,17 +1,11 @@
 # Hi I'm Anoop 👋
 
-🔗 &nbsp;**Connect with me**
-<p align='left>
-  <a href="https://github.com/anoopkarnik" target="_blank"> 
-	  <img alt="Github" width="40" height="40" src="https://raw.githubusercontent.com/anoopkarnik/turborepo-saas-boilerplate-code/main/apps/nextjs-app/public/connections/github-dark.png"/>
-  </a> 
-  <a href="https://twitter.com/anooplegend1992" target="_blank">
-	  <img alt="Twitter" width="40" height="40" src="https://raw.githubusercontent.com/anoopkarnik/turborepo-saas-boilerplate-code/main/apps/nextjs-app/public/connections/twitter-dark.png"/>
-  </a> 
-  <a href="https://www.linkedin.com/in/anoopkarnik" target="_blank">
-	  <img alt="Linkedin" width="40" height="40" src="https://raw.githubusercontent.com/anoopkarnik/turborepo-saas-boilerplate-code/main/apps/nextjs-app/public/connections/linkedin.png"/>
-  </a> 
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/-anoopkarnik-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anoopkarnik/)](https://www.linkedin.com/in/anoopkarnik/)
+[![Medium Badge](https://img.shields.io/badge/-@danoopkarnik-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@danoopkarnik)](https://medium.com/@danoopkarnik)
+[![Website Badge](https://img.shields.io/badge/-anoopkarnik.net-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://anoopkarnik.net)](https://anoopkarnik.net)
+[![Twitter Badge](https://img.shields.io/badge/-@anooplegend1992-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/anooplegend1992)](https://twitter.com/anooplegend1992)
+[![Instagram Badge](https://img.shields.io/badge/-@anoopkarnik-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/anoopkarnik/)](https://instagram.com/anoopkarnik)
+[![Gmail Badge](https://img.shields.io/badge/-anoopkarnikofficial-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:anoopkarnikofficial@gmail.com)](mailto:anoopkarnikofficial@gmail.com)
 
 <h2>Open source projects</h2>
 <table>
@@ -32,6 +26,44 @@
     </tr>
   </tbody>
 </table>
+
+```javascript
+const anoop = {
+    code: ["Python", "Javascript", "TypeScript", "Java"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            python: ["Tkinter"],
+            css: ["Tailwind", "Bootstrap"],
+            uiLibraries: ["Shadcn UI"],
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+            python: ["Flask","FastAPI"],
+            java: ["springboot"],
+        },
+        mobileApp: {
+            crossPlatform: ["React Native"],
+        },
+        devOps: ["Docker", "Coolify", "Nginx", "Git", "GitHub Actions", "Expo"],
+        cloudServices: {
+            aws: ["EC2", "RDS", "MSK", "Apache Airflow", "Route 53", "S3", "IAM", "Amazon Workmail", "Cloudfront", "Certificate Manager",
+                  "Amazon SES", "Lightsail", "Lambda", "ECS", "ECR", "S3 Glacier", "Sagemaker", "Glue"],
+            gcp: ["APIs & Services", "IAM"],
+        },
+        databases: ["PostgreSQL", "Elasticsearch", "MongoDB", "redis", "Kafka", "Neo4j"],
+        misc: ["Socket.IO", "REST APIs", "WebSockets"],
+        AI: {
+           concepts: ["Advanced Prompting", "Vectorization", "LangChain", "Finetuning", "Stable Diffusion", "Transformers",
+                      "Reinforcement Learning],
+           tools: ["OpenAI APIs", "Midjourney", "Rasa", "KohyaSS", "ComfyUI", "Whisper", "DALL-E"]
+	}
+    },
+    currentFocus: "Creating Micro SaaS & Open Source Projects related to automation and gamification using generative AI in the the fields of 
+                   coding, content creation, personal finance, health, etc ",
+    funFact: "I pray to my gadgets regularly!"
+};
+```
 
 <!-- Light Mode -->
 <div align="left"> 
