@@ -1,7 +1,7 @@
 <h1>
 	<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
 </h1>
-<p>Welcome to my page! </br> I'm Anoop, Open Source and Micro SaaS Products Builder from India/b>. </p>
+<p>Welcome to my page! </br> I'm Anoop, Open Source and Micro SaaS Products Builder from India. </p>
 
 <h2>Open source projects</h2>
 <table>
@@ -61,12 +61,12 @@
   </a> 
 </p>
 <!-- Light Mode -->
-<div align="around"> 
+<div align="left"> 
 <a href="https://github.com/anoopkarnik/github-readme-stats#gh-light-mode-only"><img height=259 src="https://github-readme-stats-tau-eight-19.vercel.app/api/top-langs/?username=anoopkarnik&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Anoop Karnik's Language stats" /></a><a href="https://github.com/anoopkarnik/github-readme-stats#gh-light-mode-only"><img height=259 src="https://github-readme-stats-tau-eight-19.vercel.app/api?username=anoopkarnik&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Anoop Karnik's Github stats" /></a>
 </div>
 
 <!-- Dark Mode -->
-<div align="around"> 
+<div align="left"> 
 <a href="https://github.com/anoopkearnik/github-readme-stats#gh-dark-mode-only"><img height=259 src="https://github-readme-stats-tau-eight-19.vercel.app/api/top-langs/?username=anoopkarnik&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Anoop Karnik's Language stats" /></a><a href="https://github.com/anoopkarnik/github-readme-stats#gh-dark-mode-only"><img height=259 src="https://github-readme-stats-tau-eight-19.vercel.app/api?username=anoopkarnik&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&rank_icon=default&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Anoop Karnik's Github stats" /></a>
 </div>
 
