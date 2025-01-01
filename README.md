@@ -3,6 +3,26 @@
 </h1>
 <p>Welcome to my page! </br> I'm Anoop, Open Source and Micro SaaS Products Builder from India/b>. </p>
 
+<h2>Open source projects</h2>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🔗 Repos</b></td>
+      <td><b>🌐 Live Demo</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/anoopkarnik/turborepo-saas-boilerplate-code"><b>Turborepo SaaS Boilerplate Code</b></a></td>
+      <td><a href="https://dev.boilerplate.bsamaritan.com"><b>Site</b></a></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/anoopkarnik/code-automations-notion-systems"><b>Code Automations System</b></a></td>
+      <td><a href="https://dev.bsamaritan.com"><b>Site</b></a></td>
+    </tr>
+  </tbody>
+</table>
+
 <h2>Things I code with</h2>
 <h3> Languages </h3>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -29,25 +49,7 @@
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
 <h3> Misc Tools <h3>
 
-<h2>Open source projects</h2>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🔗 Repos</b></td>
-      <td><b>🌐 Live Demo</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/anoopkarnik/turborepo-saas-boilerplate-code"><b>Turborepo SaaS Boilerplate Code</b></a></td>
-      <td><a href="https://dev.boilerplate.bsamaritan.com"><b>Site</b></a></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/anoopkarnik/code-automations-notion-systems"><b>Code Automations System</b></a></td>
-      <td><a href="https://dev.bsamaritan.com"><b>Site</b></a></td>
-    </tr>
-  </tbody>
-</table>
+
 
 <h2>Where to find me</h2>
 <p>
