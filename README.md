@@ -1,5 +1,6 @@
 # Hi I'm Anoop 👋
 
+
 [![Linkedin Badge](https://img.shields.io/badge/-anoopkarnik-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anoopkarnik/)](https://www.linkedin.com/in/anoopkarnik/)
 [![Medium Badge](https://img.shields.io/badge/-@danoopkarnik-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@danoopkarnik)](https://medium.com/@danoopkarnik)
 [![Twitter Badge](https://img.shields.io/badge/-@anooplegend1992-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/anooplegend1992)](https://twitter.com/anooplegend1992)
@@ -7,6 +8,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-anoopkarnikofficial-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:anoopkarnikofficial@gmail.com)](mailto:anoopkarnikofficial@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-facebook-blue?style=flat&logo=Facebook&logoColor=white&link=https://facebook.com/anoop.karnik1)](https://facebook.com/anoop.karnik1)
 [![Notion Badge](https://img.shields.io/badge/-@anoopkarnikofficial-white?style=flat&logo=Notion&logoColor=black&link=https://notion.com/@anoopkarnik)](https://notion.com/@anoopkarnik)
+
 [![Youtube Badge](https://img.shields.io/youtube/channel/subscribers/UC7DOi16CtrSKeYa9fuJhMZQ)](https://youtube.com/@bayesianlabs)
 [![Youtube Badge](https://img.shields.io/youtube/channel/views/UC7DOi16CtrSKeYa9fuJhMZQ)](https://youtube.com/@bayesianlabs)
 ![Github Badge](https://img.shields.io/github/followers/anoopkarnik)
