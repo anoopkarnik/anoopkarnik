@@ -37,7 +37,7 @@
 <h3>Where to find me</h3>
 <p>
   <a href="https://github.com/anoopkarnik" target="_blank"> 
-	  <img alt="Github" width="100" height="100" src="https://raw.githubusercontent.com/anoopkarnik/turborepo-saas-boilerplate-code/main/apps/nextjs-app/public/connections/github.png"/>
+	  <img alt="Github" width="40" height="40" src="https://raw.githubusercontent.com/anoopkarnik/turborepo-saas-boilerplate-code/main/apps/nextjs-app/public/connections/github.png"/>
   </a> 
   <a href="https://twitter.com/anooplegend1992" target="_blank">
 	  <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
