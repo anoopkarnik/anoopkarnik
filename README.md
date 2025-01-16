@@ -46,7 +46,7 @@ MicroSaas Products Builder, Notion Template Builder, Fullstack Engineer, Devops 
     </tr>
     <tr>
       <td><a href="https://github.com/anoopkarnik/company-landing-page"><b>Company landing Page</b></a></td>
-      <td><a href="https://bayesian-labs.com"><b>Site</b></a></td>
+      <td><b>Site</b></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/anoopkarnik/company-landing-page?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/anoopkarnik/company-landing-page?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/anoopkarnik/company-landing-page?style=flat-square&labelColor=343b41"/></td>
