@@ -38,15 +38,23 @@ MicroSaas Products Builder, Notion Template Builder, Fullstack Engineer, Devops 
   <tbody>
     <tr>
       <td><a href="https://github.com/anoopkarnik/turborepo-saas-boilerplate-code"><b>Turborepo SaaS Boilerplate Code</b></a></td>
-      <td><a href="https://dev.boilerplate.bsamaritan.com"><b>Site</b></a></td>
+      <td><a href="https://boilerplate.bayesian-labs.com"><b>Site</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/anoopkarnik/turborepo-saas-boilerplate-code?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/anoopkarnik/turborepo-saas-boilerplate-code?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/anoopkarnik/turborepo-saas-boilerplate-code?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/anoopkarnik/turborepo-saas-boilerplate-code?style=flat-square&labelColor=343b41"/></td>
     </tr>
-	  <tr>
+    <tr>
+      <td><a href="https://github.com/anoopkarnik/company-landing-page"><b>Company landing Page</b></a></td>
+      <td><a href="https://bayesian-labs.com"><b>Site</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/anoopkarnik/company-landing-page?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/anoopkarnik/company-landing-page?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/anoopkarnik/company-landing-page?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/anoopkarnik/company-landing-page?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/anoopkarnik/code-automations-notion-systems"><b>Code Automations System</b></a></td>
-      <td><a href="https://dev.bsamaritan.com"><b>Site</b></a></td>
+      <td><a href=""><b>Site</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/anoopkarnik/code-automations-notion-systems?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/anoopkarnik/code-automations-notion-systems?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/anoopkarnik/code-automations-notion-systems?style=flat-square&labelColor=343b41"/></td>
