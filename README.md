@@ -54,7 +54,7 @@ MicroSaas Products Builder, Notion Template Builder, Fullstack Engineer, Devops 
     </tr>
     <tr>
       <td><a href="https://github.com/anoopkarnik/code-automations-notion-systems"><b>Code Automations System</b></a></td>
-      <td><a href=""><b>Site</b></a></td>
+      <td><b>Site</b></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/anoopkarnik/code-automations-notion-systems?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/anoopkarnik/code-automations-notion-systems?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/anoopkarnik/code-automations-notion-systems?style=flat-square&labelColor=343b41"/></td>
