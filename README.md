@@ -4,7 +4,7 @@
 	
 [![Linkedin Badge](https://img.shields.io/badge/-anoopkarnik-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anoopkarnik/)](https://www.linkedin.com/in/anoopkarnik/)
 [![Medium Badge](https://img.shields.io/badge/-@danoopkarnik-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@danoopkarnik)](https://medium.com/@danoopkarnik)
-[![Twitter Badge](https://img.shields.io/badge/-@anooplegend1992-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/anooplegend1992)](https://twitter.com/anooplegend1992)
+[![Twitter Badge](https://img.shields.io/badge/-@anoopbayesian-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://x.com/anoopbayesian)](https://twitter.com/anoopbayesian)
 [![Instagram Badge](https://img.shields.io/badge/-@anoopkarnik-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/anoopkarnik/)](https://instagram.com/anoopkarnik)
 [![Gmail Badge](https://img.shields.io/badge/-anoopkarnikofficial-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:anoopkarnikofficial@gmail.com)](mailto:anoopkarnikofficial@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-facebook-blue?style=flat&logo=Facebook&logoColor=white&link=https://facebook.com/anoop.karnik1)](https://facebook.com/anoop.karnik1)
@@ -28,7 +28,9 @@ MicroSaas Products Builder, Notion Template Builder, Fullstack Engineer, Devops 
   <thead align="center">
     <tr border: none;>
       <td><b>🔗 Projects</b></td>
+      <td><b>📦 Npm Package Link</b></td>
       <td><b>🌐 Live Demo</b></td>
+      <td><b>🌀 Npm Packages Downloads</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
       <td><b>🛎 Issues</b></td>
@@ -39,6 +41,8 @@ MicroSaas Products Builder, Notion Template Builder, Fullstack Engineer, Devops 
     <tr>
       <td><a href="https://github.com/anoopkarnik/turborepo-saas-boilerplate-code"><b>Turborepo SaaS Boilerplate Code</b></a></td>
       <td><a href="https://boilerplate.bayesian-labs.com"><b>Site</b></a></td>
+      <td><a href="https://www.npmjs.com/package/turborepo-saas-boilerplate-code"><b>Package Link</b></a></td>
+      <td><img alt="Downloads" src="https://img.shields.io/npm/dw/turborepo-saas-boilerplate-code?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/anoopkarnik/turborepo-saas-boilerplate-code?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/anoopkarnik/turborepo-saas-boilerplate-code?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/anoopkarnik/turborepo-saas-boilerplate-code?style=flat-square&labelColor=343b41"/></td>
@@ -47,18 +51,22 @@ MicroSaas Products Builder, Notion Template Builder, Fullstack Engineer, Devops 
     <tr>
       <td><a href="https://github.com/anoopkarnik/company-landing-page"><b>Company landing Page</b></a></td>
       <td><a href="https://bayesian-labs.com"><b>Site</b></a></td>
+      <td><a href="https://www.npmjs.com/package/company-landing-page"><b>Package Link</b></a></td>
+      <td><img alt="Downloads" src="https://img.shields.io/npm/dw/company-landing-page?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/anoopkarnik/company-landing-page?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/anoopkarnik/company-landing-page?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/anoopkarnik/company-landing-page?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/anoopkarnik/company-landing-page?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/anoopkarnik/code-automations-notion-systems"><b>Code Automations System</b></a></td>
-      <td><b>Site</b></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/anoopkarnik/code-automations-notion-systems?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/anoopkarnik/code-automations-notion-systems?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/anoopkarnik/code-automations-notion-systems?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/anoopkarnik/code-automations-notion-systems?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/anoopkarnik/portfolio-boilerplate"><b>Portfolio Boilerplate</b></a></td>
+      <td><a href="https://anoopkarnik.net"><b>Site</b></a></td>
+      <td><a href="https://www.npmjs.com/package/portfolio-boilerplate"><b>Package Link</b></a></td>
+      <td><img alt="Downloads" src="https://img.shields.io/npm/dw/portfolio-boilerplate?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/anoopkarnik/portfolio-boilerplate?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/anoopkarnik/portfolio-boilerplate?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/anoopkarnik/portfolio-boilerplate?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/anoopkarnik/portfolio-boilerplate?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
