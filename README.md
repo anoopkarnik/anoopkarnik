@@ -28,10 +28,9 @@ MicroSaas Products Builder, Notion Template Builder, Fullstack Engineer, Devops 
   <thead align="center">
     <tr border: none;>
       <td><b>🔗 Projects</b></td>
-      <td><b>🌐 Live Demo</b></td
+      <td><b>🌐 Live Demo</b></td>
       <td><b>📦 Npm Package Link</b></td>
       <td><b>🌀 Npm Packages </b></td>
-      <td><b>🖨️ Downloads </b>
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
       <td><b>🛎 Issues</b></td>
