@@ -18,6 +18,7 @@
 [![Youtube Badge](https://img.shields.io/youtube/channel/views/UC7DOi16CtrSKeYa9fuJhMZQ)](https://youtube.com/@bayesianlabs)
 ![Github Badge](https://img.shields.io/github/followers/anoopkarnik)
 ![Github Badge](https://img.shields.io/github/stars/anoopkarnik)
+![Npm Downloads Badge](https://img.shields.io/npm-stat/dm/anoopkarnik)
 </div>
 
 MicroSaas Products Builder, Notion Template Builder, Fullstack Engineer, Devops Engineer, Data Engineer, Machine Learning Engineer, Applied AI Engineer
