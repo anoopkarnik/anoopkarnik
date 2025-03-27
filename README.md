@@ -126,9 +126,9 @@ const anoop = {
 [![Anoop Karnik's WakaTime stats](https://github-readme-stats-tau-eight-19.vercel.app/api/wakatime?username=anoopkarnik)](https://github.com/anoopkarnik/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-324%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-333%20hrs%2038%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.6%20million%20lines%20of%20code-blue)
 
@@ -144,52 +144,6 @@ const anoop = {
  > 
 > 🔑 8 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                307 commits         ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
-🌆 Daytime                297 commits         ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
-🌃 Evening                343 commits         ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
-🌙 Night                  387 commits         ███████░░░░░░░░░░░░░░░░░░   29.01 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   126 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-Tuesday                  197 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-Wednesday                265 commits         █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
-Thursday                 195 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Friday                   186 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-Saturday                 190 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-Sunday                   175 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-TypeScript               31 hrs 47 mins      ██████████████████████░░░   88.36 % 
-Prisma                   1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-Bash                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-JSON                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-YAML                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-
-🔥 Editors: 
-VS Code                  35 hrs 58 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-turborepo-saas-boilerplat35 hrs 56 mins      █████████████████████████   99.93 % 
-company-landing-page     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-BasicChatApplication     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-TechnicalWork            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-💻 Operating System: 
-Linux                    35 hrs 58 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -203,5 +157,5 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/03/2025 18:43:19 UTC
+ Last Updated on 27/03/2025 18:42:36 UTC
 <!--END_SECTION:waka-->
