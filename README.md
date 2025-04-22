@@ -126,7 +126,7 @@ const anoop = {
 [![Anoop Karnik's WakaTime stats](https://github-readme-stats-tau-eight-19.vercel.app/api/wakatime?username=anoopkarnik)](https://github.com/anoopkarnik/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-426%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-433%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -134,7 +134,9 @@ const anoop = {
 
 **🐱 My GitHub Data** 
 
-> 📦 911.6 kB Used in GitHub's Storage 
+> 📦 911.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 283 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -169,20 +171,20 @@ Sunday                   177 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               16 hrs 41 mins      ██████████████████░░░░░░░   73.23 % 
-Prisma                   1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-YAML                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-Docker                   1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+TypeScript               18 hrs 51 mins      ██████████████████░░░░░░░   72.62 % 
+Prisma                   2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+YAML                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+Docker                   1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+Bash                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 47 mins      █████████████████████████   100.00 % 
+VS Code                  25 hrs 57 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-turborepo-saas-boilerplat22 hrs 47 mins      █████████████████████████   100.00 % 
+turborepo-saas-boilerplat25 hrs 57 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    22 hrs 47 mins      █████████████████████████   100.00 % 
+Linux                    25 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -198,5 +200,5 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/04/2025 18:42:46 UTC
+ Last Updated on 22/04/2025 18:43:10 UTC
 <!--END_SECTION:waka-->
