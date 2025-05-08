@@ -136,8 +136,6 @@ const anoop = {
 
 > 📦 912.2 kB Used in GitHub's Storage 
  > 
-> 🏆 284 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 69 Public Repositories 
@@ -201,5 +199,5 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/05/2025 18:42:59 UTC
+ Last Updated on 08/05/2025 18:43:49 UTC
 <!--END_SECTION:waka-->
