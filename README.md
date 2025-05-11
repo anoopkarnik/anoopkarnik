@@ -126,7 +126,7 @@ const anoop = {
 [![Anoop Karnik's WakaTime stats](https://github-readme-stats-tau-eight-19.vercel.app/api/wakatime?username=anoopkarnik)](https://github.com/anoopkarnik/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-455%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-457%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -135,6 +135,8 @@ const anoop = {
 **🐱 My GitHub Data** 
 
 > 📦 912.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -169,21 +171,18 @@ Sunday                   177 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               3 hrs 20 mins       ████████████████████████░   96.22 % 
-Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+TypeScript               3 hrs 39 mins       ████████████████████████░   96.65 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 28 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 46 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-turborepo-saas-boilerplat3 hrs 28 mins       █████████████████████████   99.96 % 
-TechnicalWork            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+turborepo-saas-boilerplat3 hrs 46 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 28 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -199,5 +198,5 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/05/2025 18:40:52 UTC
+ Last Updated on 11/05/2025 18:41:14 UTC
 <!--END_SECTION:waka-->
