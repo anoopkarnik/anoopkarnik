@@ -126,7 +126,7 @@ const anoop = {
 [![Anoop Karnik's WakaTime stats](https://github-readme-stats-tau-eight-19.vercel.app/api/wakatime?username=anoopkarnik)](https://github.com/anoopkarnik/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-457%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-457%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -171,18 +171,19 @@ Sunday                   177 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               3 hrs 39 mins       ████████████████████████░   96.65 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+TypeScript               3 hrs 47 mins       ███████████████████████░░   91.16 % 
+Docker                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 46 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 9 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-turborepo-saas-boilerplat3 hrs 46 mins       █████████████████████████   100.00 % 
+turborepo-saas-boilerplat4 hrs 9 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 46 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -198,5 +199,5 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/05/2025 18:43:39 UTC
+ Last Updated on 13/05/2025 18:43:22 UTC
 <!--END_SECTION:waka-->
