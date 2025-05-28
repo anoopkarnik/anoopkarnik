@@ -21,6 +21,9 @@
 ![Npm Downloads Badge](https://img.shields.io/npm-stat/dm/anoopkarnik)
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=anoopkarnik&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 MicroSaas Products Builder, Notion Template Builder, Fullstack Engineer, Devops Engineer, Data Engineer, Machine Learning Engineer, Applied AI Engineer
 
 <h3 >Open source projects</h3>
