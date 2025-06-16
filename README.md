@@ -129,15 +129,17 @@ const anoop = {
 [![Anoop Karnik's WakaTime stats](https://github-readme-stats-tau-eight-19.vercel.app/api/wakatime?username=anoopkarnik)](https://github.com/anoopkarnik/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-562%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-563%20hrs%2033%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 919.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 345 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -172,23 +174,22 @@ Sunday                   180 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               23 hrs 25 mins      ██████████████████████░░░   87.98 % 
-Prisma                   2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-Other                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+TypeScript               20 hrs 13 mins      ██████████████████████░░░   88.83 % 
+Prisma                   2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+Other                    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 🔥 Editors: 
-VS Code                  26 hrs 36 mins      █████████████████████████   100.00 % 
+VS Code                  22 hrs 46 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-git-grasp                26 hrs 7 mins       █████████████████████████   98.16 % 
-turborepo-saas-boilerplat21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-code-automation-systems  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-AutoGPT                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+git-grasp                22 hrs 18 mins      ████████████████████████░   97.93 % 
+turborepo-saas-boilerplat20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+code-automation-systems  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+AutoGPT                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-Linux                    26 hrs 36 mins      █████████████████████████   100.00 % 
+Linux                    22 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -204,5 +205,5 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/06/2025 18:42:27 UTC
+ Last Updated on 16/06/2025 18:44:42 UTC
 <!--END_SECTION:waka-->
