@@ -129,9 +129,9 @@ const anoop = {
 [![Anoop Karnik's WakaTime stats](https://github-readme-stats-tau-eight-19.vercel.app/api/wakatime?username=anoopkarnik)](https://github.com/anoopkarnik/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-564%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-564%20hrs%2029%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.7%20million%20lines%20of%20code-blue)
 
@@ -174,19 +174,21 @@ Sunday                   180 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-YAML                     39 mins             ███████████████████░░░░░░   74.35 % 
-Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-JSON                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Bash                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+YAML                     41 mins             ██████████████████░░░░░░░   73.41 % 
+Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+JSON                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+Bash                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 
 🔥 Editors: 
-VS Code                  52 mins             █████████████████████████   100.00 % 
+VS Code                  55 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-self-hosted-ai-starter-ki52 mins             █████████████████████████   100.00 % 
+self-hosted-ai-starter-ki54 mins             ████████████████████████░   97.49 % 
+git-grasp                1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 
 💻 Operating System: 
-Linux                    52 mins             █████████████████████████   100.00 % 
+Linux                    55 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -202,5 +204,5 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/06/2025 18:45:26 UTC
+ Last Updated on 24/06/2025 18:45:04 UTC
 <!--END_SECTION:waka-->
