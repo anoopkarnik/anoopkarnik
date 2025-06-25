@@ -43,7 +43,17 @@ MicroSaas Products Builder, Notion Template Builder, Fullstack Engineer, Devops 
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/anoopkarnik/turborepo-saas-boilerplate-code"><b>Turborepo SaaS Boilerplate Code</b></a></td>
+      <td><a href="https://github.com/anoopkarnik/git-grasp"><b>Git Grasp</b></a></td>
+      <td><a href="https://gitgrasp.bayesian-labs.com"><b>Site</b></a></td>
+      <td><a href="https://www.npmjs.com/package/gitgrasp"><b>Package Link</b></a></td>
+      <td><img alt="Downloads" src="https://img.shields.io/npm/dw/gitgrasp?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/anoopkarnik/gitgrasp?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/anoopkarnik/gitgrasp?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/anoopkarnik/gitgrasp?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/anoopkarnik/gitgrasp?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/anoopkarnik/turborepo-saas-boilerplate-code"><b>SaaS Forge</b></a></td>
       <td><a href="https://boilerplate.bayesian-labs.com"><b>Site</b></a></td>
       <td><a href="https://www.npmjs.com/package/turborepo-saas-boilerplate-code"><b>Package Link</b></a></td>
       <td><img alt="Downloads" src="https://img.shields.io/npm/dw/turborepo-saas-boilerplate-code?style=flat-square&labelColor=343b41"/></td>
