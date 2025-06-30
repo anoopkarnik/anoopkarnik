@@ -147,9 +147,9 @@ const anoop = {
 
 **🐱 My GitHub Data** 
 
-> 📦 919.0 kB Used in GitHub's Storage 
+> 📦 920.6 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 349 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -215,5 +215,5 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/06/2025 18:42:41 UTC
+ Last Updated on 30/06/2025 18:44:36 UTC
 <!--END_SECTION:waka-->
