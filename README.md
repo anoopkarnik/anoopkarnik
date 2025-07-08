@@ -139,17 +139,15 @@ const anoop = {
 [![Anoop Karnik's WakaTime stats](https://github-readme-stats-tau-eight-19.vercel.app/api/wakatime?username=anoopkarnik)](https://github.com/anoopkarnik/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-570%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-571%20hrs%2043%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 920.6 kB Used in GitHub's Storage 
- > 
-> 🏆 349 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -184,22 +182,22 @@ Sunday                   180 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-YAML                     2 hrs 17 mins       ████████████░░░░░░░░░░░░░   46.00 % 
-TypeScript               1 hr 9 mins         ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
-Python                   1 hr                █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
-Docker                   19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+TypeScript               2 hrs 42 mins       ████████████░░░░░░░░░░░░░   47.24 % 
+YAML                     1 hr 30 mins        ███████░░░░░░░░░░░░░░░░░░   26.22 % 
+Python                   1 hr                ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+Docker                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 58 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 44 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-self-hosted-ai-starter-ki3 hrs 20 mins       █████████████████░░░░░░░░   67.07 % 
-turborepo-saas-boilerplat1 hr 15 mins        ██████░░░░░░░░░░░░░░░░░░░   25.36 % 
-TechnicalWork            22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+turborepo-saas-boilerplat2 hrs 48 mins       ████████████░░░░░░░░░░░░░   49.03 % 
+self-hosted-ai-starter-ki2 hrs 32 mins       ███████████░░░░░░░░░░░░░░   44.41 % 
+TechnicalWork            22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
 
 💻 Operating System: 
-Linux                    4 hrs 58 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -215,5 +213,5 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/07/2025 18:45:10 UTC
+ Last Updated on 08/07/2025 18:45:16 UTC
 <!--END_SECTION:waka-->
