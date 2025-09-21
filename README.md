@@ -139,7 +139,7 @@ const anoop = {
 [![Anoop Karnik's WakaTime stats](https://github-readme-stats-tau-eight-19.vercel.app/api/wakatime?username=anoopkarnik)](https://github.com/anoopkarnik/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C205%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C209%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -170,5 +170,5 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2025 18:40:43 UTC
+ Last Updated on 21/09/2025 18:41:37 UTC
 <!--END_SECTION:waka-->
