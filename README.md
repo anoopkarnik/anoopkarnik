@@ -139,6 +139,8 @@ const anoop = {
 [![Anoop Karnik's WakaTime stats](https://github-readme-stats-tau-eight-19.vercel.app/api/wakatime?username=anoopkarnik)](https://github.com/anoopkarnik/github-readme-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C358%20hrs%2012%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.6%20million%20lines%20of%20code-blue)
@@ -155,6 +157,45 @@ const anoop = {
  > 
 > 🔑 10 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                533 commits         ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
+🌆 Daytime                502 commits         █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
+🌃 Evening                601 commits         ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
+🌙 Night                  751 commits         ████████░░░░░░░░░░░░░░░░░   31.46 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   273 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+Tuesday                  446 commits         █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
+Wednesday                416 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
+Thursday                 399 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+Friday                   290 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Saturday                 292 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+Sunday                   271 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -168,5 +209,5 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2025 18:45:05 UTC
+ Last Updated on 16/10/2025 18:44:52 UTC
 <!--END_SECTION:waka-->
