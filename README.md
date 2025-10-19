@@ -139,7 +139,7 @@ const anoop = {
 [![Anoop Karnik's WakaTime stats](https://github-readme-stats-tau-eight-19.vercel.app/api/wakatime?username=anoopkarnik)](https://github.com/anoopkarnik/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C358%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C365%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -184,16 +184,18 @@ Sunday                   271 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    7 hrs 41 mins       █████████████████████████   99.91 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Firefox                  5 hrs 32 mins       ██████████████████░░░░░░░   71.94 % 
+Chrome                   2 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   28.06 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+tvtime-api               7 hrs 41 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    7 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -209,5 +211,5 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/10/2025 18:41:19 UTC
+ Last Updated on 19/10/2025 18:41:41 UTC
 <!--END_SECTION:waka-->
