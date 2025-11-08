@@ -139,7 +139,7 @@ const anoop = {
 [![Anoop Karnik's WakaTime stats](https://github-readme-stats-tau-eight-19.vercel.app/api/wakatime?username=anoopkarnik)](https://github.com/anoopkarnik/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C511%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C525%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -184,19 +184,19 @@ Sunday                   271 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    47 hrs 52 mins      █████████████████████████   99.55 % 
-JavaScript               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Other                    55 hrs 15 mins      █████████████████████████   99.61 % 
+JavaScript               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🔥 Editors: 
-Chrome                   32 hrs 33 mins      █████████████████░░░░░░░░   67.71 % 
-Firefox                  15 hrs 31 mins      ████████░░░░░░░░░░░░░░░░░   32.29 % 
+Chrome                   32 hrs 32 mins      ███████████████░░░░░░░░░░   58.65 % 
+Firefox                  22 hrs 56 mins      ██████████░░░░░░░░░░░░░░░   41.35 % 
 
 🐱‍💻 Projects: 
-n8n                      45 hrs 28 mins      ████████████████████████░   94.54 % 
-proxycurl-js-linkedin-pro2 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+n8n                      52 hrs 51 mins      ████████████████████████░   95.27 % 
+proxycurl-js-linkedin-pro2 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
 
 💻 Operating System: 
-Linux                    48 hrs 5 mins       █████████████████████████   100.00 % 
+Linux                    55 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -212,5 +212,5 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/11/2025 18:43:47 UTC
+ Last Updated on 08/11/2025 18:42:17 UTC
 <!--END_SECTION:waka-->
