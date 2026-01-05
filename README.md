@@ -139,11 +139,11 @@ const anoop = {
 [![Anoop Karnik's WakaTime stats](https://github-readme-stats-tau-eight-19.vercel.app/api/wakatime?username=anoopkarnik)](https://github.com/anoopkarnik/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C983%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C983%20hrs%2032%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.64%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.64%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -184,22 +184,17 @@ Sunday                   271 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               3 hrs 36 mins       ████████████████████░░░░░   78.91 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Bash                     6 mins              █████████████████████████   99.42 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 18 mins       ████████████████████████░   94.17 % 
-Firefox                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+VS Code                  6 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-saas-forge               4 hrs 6 mins        ██████████████████████░░░   89.84 % 
-turborepo-saas-boilerplat27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+turborepo-saas-boilerplat6 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 34 mins       █████████████████████████   100.00 % 
+Linux                    6 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -215,5 +210,5 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 18:45:24 UTC
+ Last Updated on 05/01/2026 18:48:43 UTC
 <!--END_SECTION:waka-->
