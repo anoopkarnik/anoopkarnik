@@ -139,7 +139,7 @@ const anoop = {
 [![Anoop Karnik's WakaTime stats](https://github-readme-stats-tau-eight-19.vercel.app/api/wakatime?username=anoopkarnik)](https://github.com/anoopkarnik/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C983%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C991%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -184,18 +184,20 @@ Sunday                   271 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    23 mins             ███████████████████░░░░░░   77.69 % 
-Bash                     6 mins              ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
+Other                    7 hrs 32 mins       ████████████████████████░   97.91 % 
+Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+TypeScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 🔥 Editors: 
-Firefox                  23 mins             ███████████████████░░░░░░   77.56 % 
-VS Code                  6 mins              ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
+Firefox                  7 hrs 32 mins       ████████████████████████░   97.90 % 
+VS Code                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 
 🐱‍💻 Projects: 
-turborepo-saas-boilerplat30 mins             █████████████████████████   100.00 % 
+turborepo-saas-boilerplat7 hrs 41 mins       █████████████████████████   99.79 % 
+saas-forge               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 💻 Operating System: 
-Linux                    30 mins             █████████████████████████   100.00 % 
+Linux                    7 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -211,5 +213,5 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/01/2026 18:48:12 UTC
+ Last Updated on 07/01/2026 18:49:13 UTC
 <!--END_SECTION:waka-->
