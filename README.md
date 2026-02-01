@@ -139,8 +139,6 @@ const anoop = {
 [![Anoop Karnik's WakaTime stats](https://github-readme-stats-tau-eight-19.vercel.app/api/wakatime?username=anoopkarnik)](https://github.com/anoopkarnik/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C093%20hrs%2058%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.65%20million%20lines%20of%20code-blue?style=flat)
@@ -157,48 +155,6 @@ const anoop = {
  > 
 > 🔑 10 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                536 commits         ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
-🌆 Daytime                509 commits         █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
-🌃 Evening                604 commits         ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
-🌙 Night                  760 commits         ████████░░░░░░░░░░░░░░░░░   31.55 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-Tuesday                  452 commits         █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
-Wednesday                419 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-Thursday                 402 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-Friday                   292 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-Saturday                 293 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-Sunday                   271 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Other                    30 hrs 15 mins      ███████████████████████░░   93.47 % 
-TypeScript               1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-Bash                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-
-🔥 Editors: 
-Firefox                  30 hrs 15 mins      ███████████████████████░░   93.47 % 
-VS Code                  2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-
-🐱‍💻 Projects: 
-saas-forge               32 hrs 22 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    32 hrs 22 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -212,5 +168,5 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/01/2026 18:48:36 UTC
+ Last Updated on 01/02/2026 18:49:58 UTC
 <!--END_SECTION:waka-->
