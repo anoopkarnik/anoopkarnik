@@ -149,7 +149,9 @@ const anoop = {
 [![Anoop Karnik's WakaTime stats](https://github-readme-stats-tau-eight-19.vercel.app/api/wakatime?username=anoopkarnik)](https://github.com/anoopkarnik/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C106%20hrs%2016%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.65%20million%20lines%20of%20code-blue?style=flat)
 
@@ -157,7 +159,7 @@ const anoop = {
 
 > 📦 1.0 MB Used in GitHub's Storage 
  > 
-> 🏆 10 Contributions in the Year 2026
+> 🏆 11 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -165,6 +167,52 @@ const anoop = {
  > 
 > 🔑 10 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                537 commits         ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
+🌆 Daytime                509 commits         █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
+🌃 Evening                604 commits         ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
+🌙 Night                  760 commits         ████████░░░░░░░░░░░░░░░░░   31.54 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   281 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+Tuesday                  452 commits         █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+Wednesday                419 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+Thursday                 402 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
+Friday                   292 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Saturday                 293 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Sunday                   271 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Other                    33 hrs 49 mins      ███████████████████████░░   91.49 % 
+TypeScript               2 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+Bash                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Prisma                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔥 Editors: 
+Firefox                  33 hrs 49 mins      ███████████████████████░░   91.49 % 
+VS Code                  3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+
+🐱‍💻 Projects: 
+saas-forge               35 hrs 59 mins      ████████████████████████░   97.38 % 
+turborepo-saas-boilerplat45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+dodo-nextjs-minimal-boile12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+
+💻 Operating System: 
+Linux                    36 hrs 57 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -178,5 +226,5 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/02/2026 18:49:58 UTC
+ Last Updated on 03/02/2026 18:52:45 UTC
 <!--END_SECTION:waka-->
