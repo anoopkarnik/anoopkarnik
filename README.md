@@ -18,7 +18,7 @@
 [![Youtube Badge](https://img.shields.io/youtube/channel/views/UC7DOi16CtrSKeYa9fuJhMZQ)](https://youtube.com/@bayesianlabs)
 ![Github Badge](https://img.shields.io/github/followers/anoopkarnik)
 ![Github Badge](https://img.shields.io/github/stars/anoopkarnik)
-![Npm Downloads Badge](https://img.shields.io/npm-stat/dm/anoopkarnik)
+![NPM Downloads by package author](https://img.shields.io/npm-stat/dy/bayesianlabs)
 </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=anoopkarnik&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
