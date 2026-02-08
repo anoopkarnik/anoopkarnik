@@ -21,8 +21,6 @@
 ![NPM Downloads by package author](https://img.shields.io/npm-stat/dy/bayesianlabs)
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=anoopkarnik&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 MicroSaas Products Builder, Notion Template Builder, Fullstack Engineer, Devops Engineer, Data Engineer, Machine Learning Engineer, Applied AI Engineer
 
