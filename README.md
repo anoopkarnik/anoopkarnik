@@ -46,7 +46,7 @@ MicroSaas Products Builder, Notion Template Builder, Fullstack Engineer, Devops 
       <td><a href="https://github.com/anoopkarnik/git-grasp"><b>Git Grasp</b></a></td>
       <td><a href="https://gitgrasp.bayesian-labs.com"><b>Site</b></a></td>
       <td><a href="https://www.npmjs.com/package/git-grasp"><b>Package Link</b></a></td>
-      <td><img alt="Downloads" src="https://img.shields.io/npm/dw/git-grasp?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Downloads" src="https://img.shields.io/npm/d18m/git-grasp?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/anoopkarnik/git-grasp?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/anoopkarnik/git-grasp?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/anoopkarnik/git-grasp?style=flat-square&labelColor=343b41"/></td>
@@ -56,7 +56,7 @@ MicroSaas Products Builder, Notion Template Builder, Fullstack Engineer, Devops 
       <td><a href="https://github.com/anoopkarnik/turborepo-saas-boilerplate-code"><b>Boilerplate Demos</b></a></td>
       <td><a href="https://demos.bayesian-labs.com"><b>Site</b></a></td>
       <td><a href="https://www.npmjs.com/package/turborepo-saas-boilerplate-code"><b>Package Link</b></a></td>
-      <td><img alt="Downloads" src="https://img.shields.io/npm/dw/turborepo-saas-boilerplate-code?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Downloads" src="https://img.shields.io/npm/d18m/turborepo-saas-boilerplate-code?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/anoopkarnik/turborepo-saas-boilerplate-code?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/anoopkarnik/turborepo-saas-boilerplate-code?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/anoopkarnik/turborepo-saas-boilerplate-code?style=flat-square&labelColor=343b41"/></td>
@@ -66,7 +66,7 @@ MicroSaas Products Builder, Notion Template Builder, Fullstack Engineer, Devops 
       <td><a href="https://github.com/anoopkarnik/saas-forge"><b>SaaS Forge</b></a></td>
       <td><a href="https://boilerplate.bayesian-labs.com"><b>Site</b></a></td>
       <td><a href="https://www.npmjs.com/package/saas-forge"><b>Package Link</b></a></td>
-      <td><img alt="Downloads" src="https://img.shields.io/npm/dw/saas-forge?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Downloads" src="https://img.shields.io/npm/d18m/saas-forge?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/anoopkarnik/saas-forge?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/anoopkarnik/saas-forge?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/anoopkarnik/saas-forge?style=flat-square&labelColor=343b41"/></td>
@@ -76,7 +76,7 @@ MicroSaas Products Builder, Notion Template Builder, Fullstack Engineer, Devops 
       <td><a href="https://github.com/anoopkarnik/company-landing-page"><b>Company landing Page</b></a></td>
       <td><a href="https://bayesian-labs.com"><b>Site</b></a></td>
       <td><a href="https://www.npmjs.com/package/company-landing-page"><b>Package Link</b></a></td>
-      <td><img alt="Downloads" src="https://img.shields.io/npm/dw/company-landing-page?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Downloads" src="https://img.shields.io/npm/d18m/company-landing-page?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/anoopkarnik/company-landing-page?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/anoopkarnik/company-landing-page?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/anoopkarnik/company-landing-page?style=flat-square&labelColor=343b41"/></td>
@@ -86,7 +86,7 @@ MicroSaas Products Builder, Notion Template Builder, Fullstack Engineer, Devops 
       <td><a href="https://github.com/anoopkarnik/portfolio-boilerplate"><b>Portfolio Boilerplate</b></a></td>
       <td><a href="https://anoopkarnik.net"><b>Site</b></a></td>
       <td><a href="https://www.npmjs.com/package/portfolio-boilerplate"><b>Package Link</b></a></td>
-      <td><img alt="Downloads" src="https://img.shields.io/npm/dw/portfolio-boilerplate?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Downloads" src="https://img.shields.io/npm/d18m/portfolio-boilerplate?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/anoopkarnik/portfolio-boilerplate?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/anoopkarnik/portfolio-boilerplate?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/anoopkarnik/portfolio-boilerplate?style=flat-square&labelColor=343b41"/></td>
