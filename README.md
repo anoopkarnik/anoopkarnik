@@ -44,7 +44,12 @@ MicroSaas Products Builder, Notion Template Builder, Fullstack Engineer, Devops 
       <td><a href="https://github.com/anoopkarnik/git-grasp"><b>Git Grasp</b></a></td>
       <td><a href="https://gitgrasp.bayesian-labs.com"><b>Site</b></a></td>
       <td><a href="https://www.npmjs.com/package/git-grasp"><b>Package Link</b></a></td>
-      <td><img alt="Downloads" src="https://img.shields.io/npm/dy/git-grasp?style=flat-square&labelColor=343b41"/></td>
+      <td>
+		  <img alt="Downloads" src="https://img.shields.io/npm/dw/git-grasp?style=flat-square&labelColor=343b41"/>
+		  <img alt="Downloads" src="https://img.shields.io/npm/dm/git-grasp?style=flat-square&labelColor=343b41"/>
+		  <img alt="Downloads" src="https://img.shields.io/npm/dy/git-grasp?style=flat-square&labelColor=343b41"/>
+		  <img alt="Downloads" src="https://img.shields.io/npm/d18m/git-grasp?style=flat-square&labelColor=343b41"/>
+	  </td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/anoopkarnik/git-grasp?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/anoopkarnik/git-grasp?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/anoopkarnik/git-grasp?style=flat-square&labelColor=343b41"/></td>
