@@ -21,7 +21,6 @@
 ![NPM Downloads by package author](https://img.shields.io/npm-stat/dw/bayesianlabs)
 ![NPM Downloads by package author](https://img.shields.io/npm-stat/dm/bayesianlabs)
 ![NPM Downloads by package author](https://img.shields.io/npm-stat/dy/bayesianlabs)
-![NPM Downloads by package author](https://img.shields.io/npm-stat/d18m/bayesianlabs)
 </div>
 
 
