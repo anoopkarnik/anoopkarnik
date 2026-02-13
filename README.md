@@ -89,8 +89,13 @@ MicroSaas Products Builder, Notion Template Builder, Fullstack Engineer, Devops 
       <td><a href="https://github.com/anoopkarnik/company-landing-page"><b>Company landing Page</b></a></td>
       <td><a href="https://bayesian-labs.com"><b>Site</b></a></td>
       <td><a href="https://www.npmjs.com/package/company-landing-page"><b>Package Link</b></a></td>
-      <td><img alt="Downloads" src="https://img.shields.io/npm/dy/company-landing-page?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/anoopkarnik/company-landing-page?style=flat-square&labelColor=343b41"/></td>
+      <td>
+		  <img alt="Downloads" src="https://img.shields.io/npm/dw/company-landing-page?style=flat-square&labelColor=343b41"/>
+		  <img alt="Downloads" src="https://img.shields.io/npm/dm/company-landing-page?style=flat-square&labelColor=343b41"/>
+		  <img alt="Downloads" src="https://img.shields.io/npm/dy/company-landing-page?style=flat-square&labelColor=343b41"/>
+		  <img alt="Downloads" src="https://img.shields.io/npm/d18m/company-landing-page?style=flat-square&labelColor=343b41"/>
+	  </td>     
+	  <td><img alt="Stars" src="https://img.shields.io/github/stars/anoopkarnik/company-landing-page?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/anoopkarnik/company-landing-page?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/anoopkarnik/company-landing-page?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/anoopkarnik/company-landing-page?style=flat-square&labelColor=343b41"/></td>
