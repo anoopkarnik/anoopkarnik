@@ -16,6 +16,7 @@
 	
 [![Youtube Badge](https://img.shields.io/youtube/channel/subscribers/UC7DOi16CtrSKeYa9fuJhMZQ)](https://youtube.com/@bayesianlabs)
 [![Youtube Badge](https://img.shields.io/youtube/channel/views/UC7DOi16CtrSKeYa9fuJhMZQ)](https://youtube.com/@bayesianlabs)
+[![Youtube Badge](https://img.shields.io/youtube/channel/likes/UC7DOi16CtrSKeYa9fuJhMZQ)](https://youtube.com/@bayesianlabs)
 ![Github Badge](https://img.shields.io/github/followers/anoopkarnik)
 ![Github Badge](https://img.shields.io/github/stars/anoopkarnik)
 ![NPM Downloads by package author](https://img.shields.io/npm-stat/dw/bayesianlabs)
