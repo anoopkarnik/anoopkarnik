@@ -159,9 +159,9 @@ const anoop = {
 [![Anoop Karnik's WakaTime stats](https://github-readme-stats-tau-eight-19.vercel.app/api/wakatime?username=anoopkarnik)](https://github.com/anoopkarnik/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C142%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C148%20hrs%2042%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.77%20million%20lines%20of%20code-blue?style=flat)
 
@@ -169,11 +169,11 @@ const anoop = {
 
 > 📦 1.0 MB Used in GitHub's Storage 
  > 
-> 🏆 53 Contributions in the Year 2026
+> 🏆 54 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 77 Public Repositories 
+> 📜 78 Public Repositories 
  > 
 > 🔑 11 Private Repositories 
  > 
@@ -204,22 +204,21 @@ Sunday                   279 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    20 hrs 45 mins      ████████████████████████░   94.57 % 
-TypeScript               59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Other                    25 hrs 28 mins      █████████████████████████   98.86 % 
+TypeScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-Firefox                  20 hrs 37 mins      ████████████████████████░   94.00 % 
-VS Code                  1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Firefox                  25 hrs 22 mins      █████████████████████████   98.45 % 
+VS Code                  23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 
 🐱‍💻 Projects: 
-saas-forge               21 hrs 43 mins      █████████████████████████   99.01 % 
-Downloads                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+saas-forge               25 hrs 33 mins      █████████████████████████   99.16 % 
+Downloads                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 💻 Operating System: 
-Linux                    21 hrs 56 mins      █████████████████████████   100.00 % 
+Linux                    25 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -235,5 +234,5 @@ CSS                      4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/02/2026 18:50:55 UTC
+ Last Updated on 17/02/2026 18:52:34 UTC
 <!--END_SECTION:waka-->
