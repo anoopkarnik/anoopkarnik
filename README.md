@@ -159,6 +159,8 @@ const anoop = {
 [![Anoop Karnik's WakaTime stats](https://github-readme-stats-tau-eight-19.vercel.app/api/wakatime?username=anoopkarnik)](https://github.com/anoopkarnik/github-readme-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C417%20hrs%2024%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.31%20million%20lines%20of%20code-blue?style=flat)
@@ -175,6 +177,45 @@ const anoop = {
  > 
 > 🔑 12 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                593 commits         █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
+🌆 Daytime                670 commits         ██████░░░░░░░░░░░░░░░░░░░   24.60 % 
+🌃 Evening                676 commits         ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
+🌙 Night                  785 commits         ███████░░░░░░░░░░░░░░░░░░   28.82 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   395 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+Tuesday                  487 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
+Wednesday                458 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+Thursday                 420 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+Friday                   336 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Saturday                 308 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+Sunday                   320 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Other                    1 hr 16 mins        █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Firefox                  1 hr 16 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+saas-forge               1 hr 16 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    1 hr 16 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -188,5 +229,5 @@ CSS                      4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/05/2026 19:29:00 UTC
+ Last Updated on 29/05/2026 19:26:11 UTC
 <!--END_SECTION:waka-->
