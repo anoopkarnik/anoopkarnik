@@ -159,15 +159,19 @@ const anoop = {
 [![Anoop Karnik's WakaTime stats](https://github-readme-stats-tau-eight-19.vercel.app/api/wakatime?username=anoopkarnik)](https://github.com/anoopkarnik/github-readme-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-738%20hrs%2016%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%2029%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.56%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.57%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 310 Contributions in the Year 2026
+> 🏆 311 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -175,6 +179,51 @@ const anoop = {
  > 
 > 🔑 12 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                769 commits         █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
+🌆 Daytime                931 commits         ███████░░░░░░░░░░░░░░░░░░   26.23 % 
+🌃 Evening                904 commits         ██████░░░░░░░░░░░░░░░░░░░   25.46 % 
+🌙 Night                  946 commits         ███████░░░░░░░░░░░░░░░░░░   26.65 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   637 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+Tuesday                  575 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Wednesday                604 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+Thursday                 488 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Friday                   417 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+Saturday                 365 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Sunday                   464 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Other                    10 mins             █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Firefox                  10 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+saas-forge               10 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    10 mins             █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -188,5 +237,5 @@ CSS                      4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 20:05:21 UTC
+ Last Updated on 29/07/2026 19:57:02 UTC
 <!--END_SECTION:waka-->
