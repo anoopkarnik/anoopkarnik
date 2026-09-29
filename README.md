@@ -206,33 +206,33 @@ Sunday                   493 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    17 hrs 11 mins      ████████████░░░░░░░░░░░░░   49.28 % 
-Markdown                 7 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
-TypeScript               2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-Prisma                   1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-Bash                     1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+Other                    21 hrs 49 mins      ██████████████░░░░░░░░░░░   55.23 % 
+Markdown                 7 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+TypeScript               2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+Prisma                   1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+Bash                     1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
 
 🔥 Editors: 
-Firefox                  14 hrs 48 mins      ███████████░░░░░░░░░░░░░░   42.48 % 
-Claude Code              11 hrs 21 mins      ████████░░░░░░░░░░░░░░░░░   32.55 % 
-VS Code                  3 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-Codex Vscode             3 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-Antigravity Desktop      1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+Firefox                  19 hrs 26 mins      ████████████░░░░░░░░░░░░░   49.22 % 
+Claude Code              11 hrs 21 mins      ███████░░░░░░░░░░░░░░░░░░   28.74 % 
+VS Code                  3 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Codex Vscode             3 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+Antigravity Desktop      1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
 
 🐱‍💻 Projects: 
-life-forge               14 hrs 13 mins      ██████████░░░░░░░░░░░░░░░   40.78 % 
-portfolio-boilerplate    9 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   27.59 % 
-saas-forge               6 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-self-hosted-open-source-t4 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+life-forge               20 hrs 42 mins      █████████████░░░░░░░░░░░░   52.41 % 
+portfolio-boilerplate    9 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
+self-hosted-open-source-t4 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+saas-forge               4 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
 
 💻 Operating System: 
-Linux                    34 hrs 52 mins      █████████████████████████   100.00 % 
+Linux                    39 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 47 mins (53.9%)
+⏱ AI Coding Time: 18 hrs 47 mins (47.58%)
 
 ✍️ 15,798 lines written by AI, 22 lines written by hand (99.86% AI-written)
 
@@ -240,7 +240,7 @@ Linux                    34 hrs 52 mins      ███████████�
 
 💵 $238.65 Estimated AI Cost This Week
 
-🧠 36 AI Sessions, 148 AI Prompts
+🧠 35 AI Sessions, 148 AI Prompts
 
 Opus                     11,662 lines        ██████████████████░░░░░░░   73.78 % 
 GPT                      2,566 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
@@ -268,5 +268,5 @@ CSS                      4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2026 23:30:07 UTC
+ Last Updated on 29/09/2026 22:35:26 UTC
 <!--END_SECTION:waka-->
