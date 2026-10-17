@@ -171,7 +171,7 @@ const anoop = {
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 518 Contributions in the Year 2026
+> 🏆 520 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -182,21 +182,21 @@ const anoop = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                961 commits         █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
-🌆 Daytime                1221 commits        ███████░░░░░░░░░░░░░░░░░░   27.39 % 
-🌃 Evening                1194 commits        ███████░░░░░░░░░░░░░░░░░░   26.78 % 
-🌙 Night                  1082 commits        ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
+🌞 Morning                962 commits         █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
+🌆 Daytime                1221 commits        ███████░░░░░░░░░░░░░░░░░░   27.38 % 
+🌃 Evening                1194 commits        ███████░░░░░░░░░░░░░░░░░░   26.77 % 
+🌙 Night                  1083 commits        ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   910 commits         █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
+Monday                   910 commits         █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
 Tuesday                  659 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Wednesday                786 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+Wednesday                786 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
 Thursday                 593 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
 Friday                   502 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Saturday                 428 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-Sunday                   580 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+Saturday                 430 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Sunday                   580 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
 ```
 
 
@@ -206,52 +206,52 @@ Sunday                   580 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    27 hrs 57 mins      █████████████░░░░░░░░░░░░   53.68 % 
-Markdown                 9 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
-TypeScript               7 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-Bash                     3 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-Python                   1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+Other                    32 hrs 26 mins      ████████████████░░░░░░░░░   63.75 % 
+TypeScript               6 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Markdown                 3 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+Bash                     2 hrs 39 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+Python                   1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 
 🔥 Editors: 
-Firefox                  21 hrs 23 mins      ██████████░░░░░░░░░░░░░░░   41.07 % 
-Codex Vscode             16 hrs 59 mins      ████████░░░░░░░░░░░░░░░░░   32.62 % 
-Claude Code              10 hrs 43 mins      █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
-VS Code                  2 hrs 58 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+Firefox                  26 hrs 26 mins      █████████████░░░░░░░░░░░░   51.97 % 
+Codex Vscode             15 hrs 29 mins      ████████░░░░░░░░░░░░░░░░░   30.43 % 
+Claude Code              6 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+VS Code                  2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
 
 🐱‍💻 Projects: 
-life-forge               25 hrs 25 mins      ████████████░░░░░░░░░░░░░   48.83 % 
-saas-forge               25 hrs 5 mins       ████████████░░░░░░░░░░░░░   48.19 % 
-self-hosted-open-source-t52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-ent-os                   39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-scratchpad               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+saas-forge               32 hrs 10 mins      ████████████████░░░░░░░░░   63.21 % 
+life-forge               17 hrs 9 mins       ████████░░░░░░░░░░░░░░░░░   33.72 % 
+self-hosted-open-source-t52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+ent-os                   39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+pkgs                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Linux                    52 hrs 4 mins       █████████████████████████   100.00 % 
+Linux                    50 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 hrs 29 mins (54.7%)
+⏱ AI Coding Time: 22 hrs 23 mins (43.99%)
 
-✍️ 42,530 lines written by AI, 24 lines written by hand (99.94% AI-written)
+✍️ 19,721 lines written by AI, 23 lines written by hand (99.88% AI-written)
 
-🔤 15,901,304 Input Tokens, 3,573,468 Output Tokens
+🔤 12,719,156 Input Tokens, 2,561,591 Output Tokens
 
-💵 $274.40 Estimated AI Cost This Week
+💵 $181.80 Estimated AI Cost This Week
 
-🧠 59 AI Sessions, 193 AI Prompts
+🧠 58 AI Sessions, 131 AI Prompts
 
-Opus                     35,914 lines        █████████████████████░░░░   83.79 % 
-GPT                      6,950 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+Opus                     13,937 lines        █████████████████░░░░░░░░   69.22 % 
+GPT                      6,198 lines         ████████░░░░░░░░░░░░░░░░░   30.78 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.94% of written lines came from AI
-📚 Verbose Prompter — average 7,858 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.07% of changed lines were hand-edited
+🤖 AI-Driven — 99.88% of written lines came from AI
+📚 Verbose Prompter — average 8,690 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.12% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -267,5 +267,5 @@ CSS                      4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/10/2026 21:39:40 UTC
+ Last Updated on 17/10/2026 20:54:39 UTC
 <!--END_SECTION:waka-->
