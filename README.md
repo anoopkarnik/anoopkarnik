@@ -159,9 +159,9 @@ const anoop = {
 [![Anoop Karnik's WakaTime stats](https://github-readme-stats-tau-eight-19.vercel.app/api/wakatime?username=anoopkarnik)](https://github.com/anoopkarnik/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-804%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-804%20hrs%2057%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-79%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-79%20hrs%2023%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -179,81 +179,6 @@ const anoop = {
  > 
 > 🔑 12 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                962 commits         █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
-🌆 Daytime                1221 commits        ███████░░░░░░░░░░░░░░░░░░   27.38 % 
-🌃 Evening                1194 commits        ███████░░░░░░░░░░░░░░░░░░   26.77 % 
-🌙 Night                  1083 commits        ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   910 commits         █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
-Tuesday                  659 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Wednesday                786 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
-Thursday                 593 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-Friday                   502 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Saturday                 430 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-Sunday                   580 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Other                    39 hrs 20 mins      ██████████████████░░░░░░░   72.73 % 
-TypeScript               5 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-Markdown                 3 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-Bash                     2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-HTML                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-
-🔥 Editors: 
-Firefox                  33 hrs 19 mins      ███████████████░░░░░░░░░░   61.61 % 
-Codex Vscode             12 hrs 35 mins      ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
-Claude Code              6 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-VS Code                  1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-
-🐱‍💻 Projects: 
-saas-forge               28 hrs 9 mins       █████████████░░░░░░░░░░░░   52.06 % 
-life-forge               15 hrs 16 mins      ███████░░░░░░░░░░░░░░░░░░   28.24 % 
-ekarvo                   9 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
-self-hosted-open-source-t52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-pkgs                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-
-💻 Operating System: 
-Linux                    54 hrs 5 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 19 hrs 12 mins (35.5%)
-
-✍️ 14,579 lines written by AI, 17 lines written by hand (99.88% AI-written)
-
-🔤 10,266,472 Input Tokens, 2,165,855 Output Tokens
-
-💵 $144.29 Estimated AI Cost This Week
-
-🧠 51 AI Sessions, 107 AI Prompts
-
-Opus                     11,823 lines        ████████████████████░░░░░   80.13 % 
-GPT                      2,931 lines         █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.88% of written lines came from AI
-📚 Verbose Prompter — average 8,212 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.13% of changed lines were hand-edited
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -267,5 +192,5 @@ CSS                      4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/10/2026 21:01:25 UTC
+ Last Updated on 19/10/2026 22:37:51 UTC
 <!--END_SECTION:waka-->
