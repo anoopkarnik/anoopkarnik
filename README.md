@@ -159,19 +159,19 @@ const anoop = {
 [![Anoop Karnik's WakaTime stats](https://github-readme-stats-tau-eight-19.vercel.app/api/wakatime?username=anoopkarnik)](https://github.com/anoopkarnik/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-804%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-807%20hrs%2036%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-79%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-81%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.19%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.40%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 520 Contributions in the Year 2026
+> 🏆 521 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -179,6 +179,81 @@ const anoop = {
  > 
 > 🔑 12 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                964 commits         █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
+🌆 Daytime                1221 commits        ███████░░░░░░░░░░░░░░░░░░   27.36 % 
+🌃 Evening                1194 commits        ███████░░░░░░░░░░░░░░░░░░   26.76 % 
+🌙 Night                  1083 commits        ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   910 commits         █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
+Tuesday                  661 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Wednesday                786 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+Thursday                 593 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Friday                   502 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+Saturday                 430 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Sunday                   580 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Other                    33 hrs 12 mins      ██████████████████░░░░░░░   71.28 % 
+Markdown                 3 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+TypeScript               3 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+Bash                     2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+HTML                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+
+🔥 Editors: 
+Firefox                  30 hrs 54 mins      █████████████████░░░░░░░░   66.37 % 
+Claude Code              6 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Codex Vscode             6 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+VS Code                  2 hrs 44 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+
+🐱‍💻 Projects: 
+saas-forge               22 hrs 8 mins       ████████████░░░░░░░░░░░░░   47.53 % 
+ekarvo                   14 hrs 6 mins       ████████░░░░░░░░░░░░░░░░░   30.28 % 
+life-forge               9 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+self-hosted-open-source-t49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+pkgs                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+
+💻 Operating System: 
+Linux                    46 hrs 34 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 13 hrs 22 mins (28.72%)
+
+✍️ 14,080 lines written by AI, 24 lines written by hand (99.83% AI-written)
+
+🔤 7,791,183 Input Tokens, 1,616,297 Output Tokens
+
+💵 $125.63 Estimated AI Cost This Week
+
+🧠 57 AI Sessions, 99 AI Prompts
+
+Opus                     11,939 lines        █████████████████████░░░░   84.04 % 
+GPT                      2,268 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.83% of written lines came from AI
+📚 Verbose Prompter — average 6,798 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 1.54% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -192,5 +267,5 @@ CSS                      4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2026 22:37:51 UTC
+ Last Updated on 20/10/2026 21:51:55 UTC
 <!--END_SECTION:waka-->
